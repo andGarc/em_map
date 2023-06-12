@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "start_finish",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Parking Rock Creek Regional Park", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -77.127981, 39.1150252, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Angler's Footbridge", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -77.2282091, 38.9814411, 0.0 ] } }
+]
+}

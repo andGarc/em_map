@@ -1,0 +1,13 @@
+name: em_map
+title:
+username:
+account: em365run
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4096736
+bundleId: 4577105
+url: https://em365run.shinyapps.io/em_map/
+when: 1620570167.66234
+lastSyncTime: 1620570167.66235
+asMultiple: FALSE
+asStatic: FALSE
